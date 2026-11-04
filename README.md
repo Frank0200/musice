@@ -1,4 +1,4 @@
-# DSH 插件自留备份（oldsan888 三件套）
+# DSH 插件自留备份
 
 > 目的：**不依赖原作者仓库**。原作者更新、改名、删库，这里仍能装。
 > 建立：2026-11-04 · 来源：`github.com/oldsan888/{dsh-global-memory, dsh-music-mode, dsh-voice-companion}`
